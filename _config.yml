@@ -1,7 +1,7 @@
 # Site Info
 title: DREAMING RACCOON
-tagline: 'DREAMING RACCOON'
-description: '테스트중입니다'
+tagline: '꿈꾸는 너구리의 개발노트'
+description: '디자인,마케팅,프로그래밍,일본어와 관련된 너구리의 고군분투'
 baseurl: ""
 url: http://dreaming-raccoon.github.io
 logo: '/public/logo.png'
@@ -24,8 +24,9 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Dreaming Raccoon
-  description: 테스트중입니다.
+  name: 꿈꾸는 너구리
+  description: 해외영업, 온라인기획마케터로 일하고 있습니다! 디자인, 프로그래밍, 일본어는 이제 시작했습니다!
+
   gravatar: 38ffffc570ab30836a423508f94883e1
   contact:
     linkedin:  https://www.linkedin.com/in/
