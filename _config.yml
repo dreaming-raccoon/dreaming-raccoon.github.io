@@ -1,7 +1,7 @@
 # Site Info
-title: Jungtae Kim Blog
-tagline: 'Jungtae Kim Blog'
-description: '스타트업과 새로운 기술, 그리고 라이프 스타일에 대해 이야기합니다.'
+title: DREAMING RACCOON
+tagline: 'dreaming raccoon'
+description: '테스트중입니다'
 baseurl: ""
 url: http://dreaming-raccoon.github.io
 logo: '/public/logo.png'
@@ -24,16 +24,16 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Jungtae Kim
-  description: 스타트업과 새로운 기술, 그리고 라이프 스타일에 대해 이야기합니다.
+  name: Dreaming Raccoon
+  description: 테스트중입니다.
   gravatar: dc3040b3d53d20e89643cf7035ba9866
   contact:
-    linkedin:  https://www.linkedin.com/in/jungtae-kim-77810112b/
-    # github:    https://github.com/jungtaejtkim
-    facebook:  https://www.facebook.com/windjtk
-    # twitter:   https://twitter.com/Li_Zhihao
+    linkedin:  https://www.linkedin.com/in/
+    github:    https://github.com/dreaming-raccoon
+    facebook:  https://www.facebook.com/
+    twitter:   https://twitter.com/
     # weibo:     http://weibo.com/41173780
-    # email:     jungtae.jt.kim@gmail.com
+    email:     abc@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -59,5 +59,5 @@ hero:
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: '' # leave blank if you don't want google analytics
-disqus_short_name: 'jtkim' # leave blank if you don't want disqus
+disqus_short_name: '' # leave blank if you don't want disqus
 
