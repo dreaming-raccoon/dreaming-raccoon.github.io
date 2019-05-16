@@ -4,50 +4,35 @@ title: About
 permalink: /about/
 ---
 
-# Jungtae Kim
+# 테스트
 
-Experienced professional in tech industry specialized in mobile application software development project, mobile
-business development.
+테스트중입니다
 
 ### Contact
-* email : jungtae.jt.kim@gmail.com
+* email : acb@gmail.com
 
 -----
 
 ### About me
 
-* Korea University Business School
-* Ex - startup founder (Series A level) 
-* Ex - startup team leader (Series B-C level)
+* 테스트
+* 테스트 
+* 테스트
 
 
 ### Contents of this blog
 
-* Essay [mobile application development]
-* Cool gear review
-* Market trend
-* New life style 
-* Dev
-* Book
+* 테스트
+* 테스트
+
 
 -----
 
 ### My skill 
 
-* grow hacking
-* data analysis
-* start up
-* mobile 
-* project management
-* product management
-* rapid prototyping by coding from scratch
-* swift
-* ruby on rails
-* python
-* Django - Flask
-* java script
-* firebase
-* ***deep learning ***
+* 테스트
+* 테스트
+
 
 ------
 
