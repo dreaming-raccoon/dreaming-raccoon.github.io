@@ -1,4 +1,9 @@
 ---
+layout: post
+title: 마크다운 테스트
+category: MD
+tags: [blog, jekyll, github.io,_test]
+
 __Advertisement :)__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
