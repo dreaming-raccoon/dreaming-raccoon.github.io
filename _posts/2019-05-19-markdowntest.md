@@ -1,17 +1,8 @@
 ---
 layout: post
-title: 마크다운 테스트
-category: MD
-tags: [blog, jekyll, github.io,_test]
-
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
+title: 마크다운테스트
+category: test
+tags: [web,blog,md,rere]
 
 ---
 
